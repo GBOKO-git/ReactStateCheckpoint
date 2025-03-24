@@ -11,7 +11,7 @@ Avant de commencer, assurez-vous d'avoir installé [Node.js](https://nodejs.org/
 Commencez par cloner ce repository sur votre machine locale avec la commande suivante :
 
 bash
-git clone https://github.com/votre-utilisateur/votre-repository.git
+git clone https://github.com/GBOKO-git/ReactStateCheckpoint.git
 cd votre-repository
 
 # Installer les dépendances
